@@ -61,7 +61,7 @@ it is dnsmap use for finding subdomain
 or
     
     
-    python3 setup.py -w /your wordlist path/ google.com
+    python3 setup.py -w /wordlists/common.txt google.com
     
     
     
