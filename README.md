@@ -52,3 +52,16 @@ it is dnsmap use for finding subdomain
         pip install requests
   
   
+**Example**
+
+
+    python3 setup.py google.com
+    
+    
+    or
+    
+    
+    python3 setup.py -w /your wordlist path/ google.com
+    
+    
+    
