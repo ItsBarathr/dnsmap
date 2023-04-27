@@ -45,3 +45,10 @@ it is dnsmap use for finding subdomain
   
   
   -w, --wordlist, Enter the wordlist path for scan
+  
+  **Requirement**
+  
+  
+        pip install requests
+  
+  
