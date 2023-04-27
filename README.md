@@ -58,7 +58,7 @@ it is dnsmap use for finding subdomain
     python3 setup.py google.com
     
     
-    or
+or
     
     
     python3 setup.py -w /your wordlist path/ google.com
