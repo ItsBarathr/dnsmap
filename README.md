@@ -40,6 +40,7 @@ it is dnsmap use for finding subdomain
  This tool use for finding subdomain using python. it is use for recon process.
  
  usage of this tool is :
+ 
     python3 setup.py <domain name>
   
   
